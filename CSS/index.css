@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: hsl(212deg, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+.container {
+  margin: 18rem auto;
+  background-color: white;
+  height: 51rem;
+  width: 325px;
+  text-align: center;
+  border-radius: 5%;
+}
+.container img {
+  margin-block: 1.7rem;
+  width: 29.5rem;
+  border-radius: 5%;
+}
+
+.text-group {
+  margin-inline: 3rem;
+}
+.text-group h1 {
+  font-size: 2.3rem;
+  color: hsl(218deg, 44%, 22%);
+}
+.text-group p {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: hsl(220deg, 15%, 55%);
+}/*# sourceMappingURL=index.css.map */
